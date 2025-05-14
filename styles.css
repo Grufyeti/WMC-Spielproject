@@ -1,0 +1,97 @@
+#email{
+    height: 35px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+#signIn{
+    margin-left: 40%;
+}
+
+#password{
+    height: 35px;
+    width: 300px;
+}
+
+#submitSignIn{
+    height: 35px;
+    width: 310px;
+    background-color: lightgrey;
+    border-color: black;
+}
+
+#signUpButton{
+    height: 35px;
+    width: 310px;
+    background-color: lightgray;   
+    border-color: black;
+}
+
+html, body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(42deg, transparent, lightblue, purple);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#signup{
+    margin-left: 40%;
+}
+
+#fName{
+    height: 35px;
+    width: 300px; 
+    margin-bottom: 10px;
+}
+
+#lName{
+    height: 35px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+#rEmail{
+    height: 35px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+
+#rPassword{
+    height: 35px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+/*
+.input-group{
+    height: 35px;
+    width: 300px;
+}
+*/    
+#submitSignUp{
+    height: 35px;
+    width: 300px;
+    background-color: lightgray;   
+    border-color: black;
+}
+
+#signInButton{
+    height: 35px;
+    width: 300px;
+    background-color: lightgray;   
+    border-color: black;
+}
+#recover{
+    justify-content: center;
+    align-items: center ;
+}
+img{
+    display: block;
+    width: 4em;
+    height: 4em;
+    margin-left: 8em;
+    box-shadow: 0 5px 10px -7px #333333;
+    border-radius: 50%;
+}
